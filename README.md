@@ -1,2 +1,2 @@
-# react-toggle-hook
+# React Toggle Hook
 A simple react toggle hook
