@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 const useToggle = (initialValue = false) => {
-    const [value, setValue] = useState(initialValue)
+    const [value, setValue] = useState<boolean>(initialValue)
     return [
         flag,
         {
